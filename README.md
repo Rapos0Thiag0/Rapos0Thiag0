@@ -2,4 +2,5 @@
 - Estou interessado em aprender e evoluir no desenvolvimento web
 - Estou atualmente aprender sobre Desenvolvimento Web Full Stack
 - Estou procurando por oportunidades de adquirir experiência nesse universo do desenvolvimento web
-- Você por entrar em contato comigo por meio do meu Linkedin : https://www.linkedin.com/in/thiago-raposo-b2217512a/
+- Você por entrar em contato comigo por meio do meu Linkedin:
+- https://www.linkedin.com/in/thiago-raposo-b2217512a/
